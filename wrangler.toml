@@ -1,5 +1,6 @@
 name = "tv"
 compatibility_date = "2025-05-12"
+main = "404.js" # <- 必须添加这个字段，否则部署会失败
 
 [site]
 bucket = "./dist"
