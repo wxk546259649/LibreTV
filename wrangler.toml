@@ -1,9 +1,0 @@
-name = "tv"
-compatibility_date = "2025-05-12"
-main = "404.js"
-
-[site]
-bucket = "./dist"
-
-[build]
-command = "npm run build"
